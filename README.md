@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋, i'm Yuda Jaka Pradana You can call me "Yuda"
+
+I'm an enthusiastic junior web developer with a passion for creating outstanding web experiences. I possess understanding and knowledge in website development using various technologies, with my primary focus being on Laravel.
+
+
 
 <!--
+The technologies I commonly use are:
 **yukana02/yukana02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
